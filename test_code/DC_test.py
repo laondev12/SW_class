@@ -122,7 +122,7 @@ class RC_CAR:
 
 if __name__ == "__main__":
 
-    RCcar = RC_CAR
+    RC_CAR = RC_CAR()
 
     try:
         while True:
